@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.maxmilhas.com.br	TRUE	/	FALSE	1999999999	PHPSESSID	756pspb3n75r6tr20dssfm9bs0
+.onesignal.com	TRUE	/	FALSE	1999999999	__cf_bm	Dkyr10GYa4NhJO.zOfU2JFQEFBL23d3wKdUo2dcVvRU-1726244088-1.0.1.1-4iqSSf_OzPfNKdtbCcFuv3NI0T7s9LH4UF7DGxnOQOyZCvcsuZ3togITJDwlFqrXV38Y8E.mYcfxMKQ7_DtupA
+cdn.onesignal.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.maxmilhas.com.br	TRUE	/	FALSE	1999999999	redirect_url_after_logout	https%3A%2F%2Fwww.maxmilhas.com.br%2Fhotel
+www.maxmilhas.com.br	TRUE	/	FALSE	1999999999	redirect_url_after_login	https%3A%2F%2Fwww.maxmilhas.com.br%2Fcliente%2Fminhas-ofertas
+
